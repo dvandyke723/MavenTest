@@ -1,13 +1,13 @@
 package com.jcg.maven;
 
 /**
- * Hello Infosys!
+ * Hello Infosys World!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Infosys!" );
+        System.out.println( "Hello Infosys World!" );
     }
 }

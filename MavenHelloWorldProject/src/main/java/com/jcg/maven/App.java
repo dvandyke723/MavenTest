@@ -1,7 +1,7 @@
 package com.jcg.maven;
 
 /**
- * Hello Infosys!
+ * Hello Infosys World!
  *
  */
 public class App 
